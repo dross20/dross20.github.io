@@ -2,22 +2,21 @@
 layout: homepage
 ---
 
-## About Me
+## 👋 About Me
 
-I am a Ph.D. student at ...
+I am a first-year Ph.D. student at the University of Kansas, working in the Jayhawk Data Science Lab (JDSL) under [Dr. Zijun Yao](https://www.ittc.ku.edu/~zyao/).
 
-## Research Interests
+## 🔬 Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Machine Learning:** graph neural networks, transformers, reinforcement learning
+- **Multi-Agent Systems:** retrieval-augmented generation, multi-agent collaboration, tool calling
+- **Health Informatics:** clinical decision support, AI applications in healthcare
 
-## News
+## 📰 News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[May 2025]** Started my internship at [BioData Solutions](https://www.bdatasolutions.com/) in Lawrence, Kansas.
+- **[Jan. 2025]** Began my Ph.D. studies at The University of Kansas.
 
-{% include_relative _includes/publications.md %}
+<!-- {% include_relative _includes/publications.md %} -->
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->

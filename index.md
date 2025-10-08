@@ -4,7 +4,7 @@ layout: homepage
 
 ## 👋 About Me
 
-I am a first-year Ph.D. student at the University of Kansas, working in the Jayhawk Data Science Lab (JDSL) under [Dr. Zijun Yao](https://www.ittc.ku.edu/~zyao/).
+Hey there! I'm a first-year Ph.D. student in Computer Science at the University of Kansas, working in the Jayhawk Data Science Lab (JDSL) under [Dr. Zijun Yao](https://www.ittc.ku.edu/~zyao/).
 
 ## 🔬 Research Interests
 
